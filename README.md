@@ -57,3 +57,5 @@ Projeto desenvolvido com laravel usando API e Sanctum. Ele conta com as seguinte
 5. Execute as migrações com `php artisan migrate`.
 6. Inicie o servidor local com `php artisan serve`.
       
+## Sobre
+Este projeto foi desenvolvido por Henrique Texeira. Caso tenha dúvidas ou sugestões, me mande um email henriquedepaula1015@gmail.com .
